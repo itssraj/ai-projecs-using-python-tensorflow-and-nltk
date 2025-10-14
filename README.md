@@ -20,4 +20,12 @@ Created an Deep learning unstructured ML model from CIFAR10 dataset using Tensor
  <img width="1123" height="488" alt="image" src="https://github.com/user-attachments/assets/ab54a31b-e4b7-48ec-bf83-18b5113d009f" />
 
 
-3. Performed an sentiment analysis from a movie review and implemented a NaiveBayesClassifier model to predict the sentiment of the given movie reviews and evaluated    the test results and acheived at 86% accuracy.
+3. Performed an sentiment analysis from a movie review and implemented a NaiveBayesClassifier model to predict the sentiment of the given movie reviews and evaluated    the test results and acheived a 87% accuracy.
+   1. Prepare the dataset
+   2. Shuffle the downloaded documents
+   3. Define the feature extractor
+   4. Train the classifier
+   5. Test and evaluate the classifier
+   6. Show the most informative features.
+
+<img width="1122" height="212" alt="image" src="https://github.com/user-attachments/assets/d416ab0b-4935-40c6-bb80-fc59b3a3ba66" />
