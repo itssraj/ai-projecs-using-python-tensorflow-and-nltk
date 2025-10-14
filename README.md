@@ -7,5 +7,8 @@ Created an Deep learning unstructured ML model from CIFAR10 dataset using Tensor
   2. Create an user-item matrix method to map the user and movie that user watched.
   3. Created a function to find the similar movies watched by users using KNN nearest neighbour techinique.
   4. Created a dictionary to map te movie IDs to movie titles.
-  5. Test the recommedation system. 
+  5. Test the recommedation system.
+  6. <img width="1131" height="487" alt="image" src="https://github.com/user-attachments/assets/51086114-3634-46af-ade5-1296a281f07d" />
 
+
+# Sentiment analysis
