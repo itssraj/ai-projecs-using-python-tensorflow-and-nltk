@@ -12,5 +12,12 @@ Created an Deep learning unstructured ML model from CIFAR10 dataset using Tensor
   5. Test the recommedation system.
   
 
+# Sentiment analysis for a sentence and for a completex moview reviews.
+1. Perform an sentiment analsyis metrics using an vader_lexicon sentiement analysis tool which contains the intensity score for words and phrases. Entered an sentence
+   and received and sentiment intensity score of pos: 0.535, neu:0.465, neg: 0.0 and compound score of: 0.784 basically which is an good score of the overall sentence.
+    Given below is the different sentiment analysis score based on the input context.
+   
+ <img width="1123" height="488" alt="image" src="https://github.com/user-attachments/assets/ab54a31b-e4b7-48ec-bf83-18b5113d009f" />
 
-# Sentiment analysis
+
+3. Performed an sentiment analysis from a movie review and implemented a NaiveBayesClassifier model to predict the sentiment of the given movie reviews and evaluated    the test results and acheived at 86% accuracy.
